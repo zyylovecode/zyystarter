@@ -29,4 +29,6 @@ public class Demo1Properties {
     public void setToWho(String toWho) {
         this.toWho = toWho;
     }
+
+
 }
